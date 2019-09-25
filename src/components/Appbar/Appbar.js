@@ -74,9 +74,8 @@ class Appbar extends React.Component {
             aria-label="scrollable auto tabs example"
             style={{justifyContent: 'center', alignItems: 'center'}}
           >
-            <Tab label="INDEX" onClick={() => this.onTabItemClick(0, '/in')} />
+            <Tab label={t`index`} onClick={() => this.onTabItemClick(0, '/in')} />
           </Tabs>
-          <div style={{display: 'flex', alignItems: 'center'}}>{t('Welcome to React')}</div>
           <div style={{display: 'flex', alignItems: 'center'}}>{t('welcome')}</div>
           <div style={{display: 'flex'}}>
             <Button aria-controls="simple-menu" aria-haspopup="true" onClick={evt => this.openLanguagesMenu(evt)}>
@@ -101,7 +100,7 @@ class Appbar extends React.Component {
                     selected={item.code === this.state.lang.code}
                     onClick={() => this.onLanguageItemClick(item)}
                   >
-                    <img src={item.icon} alt={"adgfhjkg"} width={12} />&nbsp;{item.code}
+                    <img src={item.icon} alt={item.code} width={12} />&nbsp;{item.code}
                   </MenuItem>
                 ))
               }

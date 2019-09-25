@@ -1,4 +1,18 @@
 {
-  "welcome": "jhsgxjhdwcejhwgcjhk",
-  "Welcome to React": "Welcome to React and react-i18next"
+  "welcome": "Welcome to RCP-Openprovider",
+  "index": "Index",
+  "membership plan": "Membership Plans",
+  "new gtlds overview": "New gTLDs Overview",
+  "domain management": "Domain Management",
+  "dns management": "DNS Management",
+  "ssl certificates": "SSL Certificates",
+  "license management": "License Management",
+  "power panel": "Power Panel",
+  "smbinvoices": "SMB Invoices",
+  "spamexperts": "SpamExperts",
+  "prices": "Prices",
+  "customer management": "Customer Management",
+  "account": "Account",
+  "notification center": "Notification Center",
+  "knowledge base": "Knowledge Base"
 }

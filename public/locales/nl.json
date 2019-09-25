@@ -1,4 +1,18 @@
 {
-  "welcome": "jhsgxjhdwcejhwgcjhk",
-  "Welcome to React": "Welcome to React and react-i18next in Dutch"
+  "welcome": "Welcome to RCP-Openprovider in Dutch",
+  "index": "inhoudsopgave",
+  "membership plan": "Memberships",
+  "new gtlds overview": "Nieuwe gTLD's",
+  "domain management": "Domeinbeheer",
+  "dns management": "DNS-beheer",
+  "ssl certificates": "SSL-certificaten",
+  "license management": "Licentie beheer",
+  "power panel": "Power Panel",
+  "smbinvoices": "MKBfacturen",
+  "spamexperts": "SpamExperts",
+  "prices": "Prijzen",
+  "customer management": "Klantbeheer",
+  "account": "Account",
+  "notification center": "Notificaties",
+  "knowledge base": "Knowledge Base"
 }
