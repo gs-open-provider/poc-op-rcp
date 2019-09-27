@@ -1,18 +1,1 @@
-{
-  "welcome": "Welcome to RCP-Openprovider in Russian",
-  "index": "индекс",
-  "membership plan": "Membership Plans",
-  "new gtlds overview": "New gTLDs Overview",
-  "domain management": "Domain Management",
-  "dns management": "DNS Management",
-  "ssl certificates": "SSL Certificates",
-  "license management": "License Management",
-  "power panel": "Power Panel",
-  "smbinvoices": "SMB Invoices",
-  "spamexperts": "SpamExperts",
-  "prices": "Prices",
-  "customer management": "Customer Management",
-  "account": "Account",
-  "notification center": "Notification Center",
-  "knowledge base": "Knowledge Base"
-}
+{"ACCOUNT":"Учетная запись","CUSTOMER_MANAGEMENT":"Управление клиентами","DNS_MANAGEMENT":"Управление DNS","DOMAIN_MANAGEMENT":"Управление доменами","INDEX":"индекс","KNOWLEDGE_BASE":"База знаний","LICENSE_MANAGEMENT":"Управление лицензиями","MEMBERSHIP_PLAN":"Домены по себестоимости!","NEW_GTLDS_OVERVIEW":"Обзор новых gTLD","NOTIFICATION_CENTER":"Уведомления","POWER_PANEL":"Power Panel","PRICES":"Цены","SMB_INVOICES":"SMB Invoices","SPAM_EXPERTS":"SpamExperts","SSL_CERTIFICATES":"SSL","WELCOME":"добро пожаловать в RCP-Openprovider на русском языке"}

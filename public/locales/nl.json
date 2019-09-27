@@ -1,18 +1,1 @@
-{
-  "welcome": "Welcome to RCP-Openprovider in Dutch",
-  "index": "inhoudsopgave",
-  "membership plan": "Memberships",
-  "new gtlds overview": "Nieuwe gTLD's",
-  "domain management": "Domeinbeheer",
-  "dns management": "DNS-beheer",
-  "ssl certificates": "SSL-certificaten",
-  "license management": "Licentie beheer",
-  "power panel": "Power Panel",
-  "smbinvoices": "MKBfacturen",
-  "spamexperts": "SpamExperts",
-  "prices": "Prijzen",
-  "customer management": "Klantbeheer",
-  "account": "Account",
-  "notification center": "Notificaties",
-  "knowledge base": "Knowledge Base"
-}
+{"ACCOUNT":"Account","CUSTOMER_MANAGEMENT":"Klantbeheer","DNS_MANAGEMENT":"DNS-beheer","DOMAIN_MANAGEMENT":"Domeinbeheer","INDEX":"Inhoudsopgave","KNOWLEDGE_BASE":"Knowledge Base","LICENSE_MANAGEMENT":"Licentie beheer","MEMBERSHIP_PLAN":"Memberships","NEW_GTLDS_OVERVIEW":"Nieuwe gTLD's","NOTIFICATION_CENTER":"Notificaties","POWER_PANEL":"Power Panel","PRICES":"Prijzen","SMB_INVOICES":"MKBfacturen","SPAM_EXPERTS":"SpamExperts","SSL_CERTIFICATES":"SSL-certificaten","WELCOME":"welkom bij RCP-Openprovider in het Nederlands"}

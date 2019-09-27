@@ -1,18 +1,1 @@
-{
-  "welcome": "Welcome to RCP-Openprovider",
-  "index": "Index",
-  "membership plan": "Membership Plans",
-  "new gtlds overview": "New gTLDs Overview",
-  "domain management": "Domain Management",
-  "dns management": "DNS Management",
-  "ssl certificates": "SSL Certificates",
-  "license management": "License Management",
-  "power panel": "Power Panel",
-  "smbinvoices": "SMB Invoices",
-  "spamexperts": "SpamExperts",
-  "prices": "Prices",
-  "customer management": "Customer Management",
-  "account": "Account",
-  "notification center": "Notification Center",
-  "knowledge base": "Knowledge Base"
-}
+{"ACCOUNT":"Account","CUSTOMER_MANAGEMENT":"Customer Management","DNS_MANAGEMENT":"DNS Management","DOMAIN_MANAGEMENT":"Domain Management","INDEX":"Index","KNOWLEDGE_BASE":"Knowledge Base","LICENSE_MANAGEMENT":"License Management","MEMBERSHIP_PLAN":"Membership Plans","NEW_GTLDS_OVERVIEW":"New gTLDs Overview","NOTIFICATION_CENTER":"Notification Center","POWER_PANEL":"Power Panel","PRICES":"Prices","SMB_INVOICES":"SMB Invoices","SPAM_EXPERTS":"SpamExperts","SSL_CERTIFICATES":"SSL Certificates","WELCOME":"Welcome to RCP-Openprovider"}

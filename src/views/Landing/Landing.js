@@ -6,25 +6,25 @@ import { commonStyles } from '../../theme/commonStyles';
 
 
 const TABSLIST = [
-  'membership plan',
-  'new gtlds overview',
-  'domain management',
-  'dns management',
-  'ssl certificates',
-  'license management',
-  'power panel',
-  'smbinvoices',
-  'spamexperts',
-  'prices',
-  'customer management',
-  'account',
-  'notification center',
-  'knowledge base',
+  'MEMBERSHIP_PLAN',
+  'NEW_GTLDS_OVERVIEW',
+  'DOMAIN_MANAGEMENT',
+  'DNS_MANAGEMENT',
+  'SSL_CERTIFICATES',
+  'LICENSE_MANAGEMENT',
+  'POWER_PANEL',
+  'SMB_INVOICES',
+  'SPAM_EXPERTS',
+  'PRICES',
+  'CUSTOMER_MANAGEMENT',
+  'ACCOUNT',
+  'NOTIFICATION_CENTER',
+  'KNOWLEDGE_BASE',
 ];
 
 class Landing extends React.Component{
   render() {
-    const { t } = this.props;
+    const { t, tReady } = this.props;
 
     return (
       <div>
@@ -34,8 +34,8 @@ class Landing extends React.Component{
               <Grid item xs={12} md={4} lg={3}>
                 {
                   TABSLIST && TABSLIST.length > 0 && TABSLIST.map(tab => (
-                    <Paper style={{ paddingLeft: 10, paddingRight: 10, marginBottom: 4 }}>
-                      <div style={{display: 'flex', height: 40, alignItems: 'center'}}>{t(tab)}</div>
+                    <Paper key={tab} style={{ paddingLeft: 10, paddingRight: 10, marginBottom: 4 }}>
+                      {tReady && <div style={{display: 'flex', height: 40, alignItems: 'center'}}>{t(tab)}</div>}
                     </Paper>
                   ))
                 }
